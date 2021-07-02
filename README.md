@@ -1,1 +1,2 @@
 # NTUST_Auto_Course_Selection
+台科大舊版的學生系統自動搶課，現在已經是新版了所以不適用ㄛ
